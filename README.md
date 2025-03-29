@@ -19,5 +19,4 @@ I’m always eager to learn, grow, and contribute—whether through design, educ
   <li>😄 Pronouns: She/Her/Hers</li>
   <li>⚡ Fun fact: Not really a fun fact, but - I ♥️ all things design. Interior, fine arts, garden, painting, graphics, motion, etc. I guess one weird fun fact would be that I drove a fork lift for nine years in the nineties for two different injection molding factories. This was all my pre-design era - during my fine arts hobby era.</li>
 </ul>
-<h1>BMarketing plans: flawless in my head. Execution: cue the unexpected disaster.</h1>
-![I'm Yaughing!](https://www.tiktok.com/@tiffany_wildenhain/video/7260175524171877675?is_from_webapp=1&sender_device=pc)
+![Extra Credit](https://github.com/angellambcab/Images/raw/main/Extra%20Credit.webp)
