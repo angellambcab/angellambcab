@@ -1,6 +1,4 @@
 ## Hi there, welcome to my page 👋
-
-**angellambcab/angellambcab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
 I am currently enrolled in the undergraduate/graduate program at Arizona State University for User Experience Design. With nearly two decades of combined experience in interior and graphic design, I have a deep passion for creating functional, aesthetically pleasing experiences. After graduation, I plan to apply my skills to my current role as the Creative Marketing Director for an ambulance, medical transport company, and clinical education center, enhancing branding, communication, and user interactions.
 </p>
